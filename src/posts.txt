@@ -1,0 +1,37 @@
+<Post
+        profilePic={"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF7ZeiBqb0LXy2n7ERZ0B1oFgqvZnD-w_8OA&s"}
+        message="wow This works"
+        timestamp="This is a timestamp"
+        username="S Nandhan"
+        image={"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScckj50ImrtL-Hf9uvwh3HLdqWgzQWzL4seQ&s"}
+      />
+      <Post
+        profilePic={"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbG-0Pc_dX0swJiOnUTf58QaSAwwUTpBUi6Q&s"}
+        message="message gose here"
+        timestamp="This is a timestamp"
+        username="S Manu"
+        image={"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFx5dQclQa6_rhg1fj9oi52jgwr6LquEFtdw&s"}
+      />
+      <Post
+        profilePic={"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRax8pVox5neKv5zPLnRd9b9UWEhBYzaDR9-w&s"}
+        message="message gose here"
+        timestamp="This is a timestamp"
+        username="Bharath"
+        image={"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThV7X4zQtw0DpIubsl7z7o42l7yDlpX3yipg&s"}
+      />
+
+<Post
+        profilePic={"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRax8pVox5neKv5zPLnRd9b9UWEhBYzaDR9-w&s"}
+        message="message gose here"
+        timestamp="This is a timestamp"
+        username="Bharath"
+        image={"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThV7X4zQtw0DpIubsl7z7o42l7yDlpX3yipg&s"}
+      />
+
+<Post
+        profilePic={"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRax8pVox5neKv5zPLnRd9b9UWEhBYzaDR9-w&s"}
+        message="message gose here"
+        timestamp="This is a timestamp"
+        username="Bharath"
+        image={"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThV7X4zQtw0DpIubsl7z7o42l7yDlpX3yipg&s"}
+      />
